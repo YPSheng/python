@@ -1,0 +1,4 @@
+str1 = "/**/jQuery110205057557444126394_1484574357057("
+print(len(str1))
+
+"https://ssl.captcha.qq.com/cap_union_new_getcapbysig?aid=522005705&asig=&captype=&protocol=https&clientype=2&disturblevel=&apptype=2&curenv=inner&ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82MS4wLjMxNjMuMTAwIFNhZmFyaS81MzcuMzY=&sess=1iW5KCYL2DiqaiJy8K76Am6iwXvqJkGKpwLsItwLEpjoWwy0G0R3y_t1YKNzrr-Ts5j2Knkgh2qfBoWdWYmHDY_tiQXBpB2vT7ttfysXWlz-JltnuOA33JN14umsk_q0oYq3ITlJNR02RDPd_JRNP0iQeNZe8JMMv3x8BD_Sqi-38jNGuIVSD-EZkLDrjztCENIt15GWQCs*&theme=&noBorder=noborder&fb=1&showtype=embed&uid=123456&cap_cd=Kz3KLjvqeqsYRc0aLobTgXc2UjrnVE-vhPOEpygni5x_9E6HTuxT9Q**&lang=2052&rnd=150167&rand=0.482505701756349&vsig=gvzE39T_XEWYaq6gx4EBY250WYUlIgIL_2ypn6K_iE-O-d3Iwb_2XEr5XegIpAikh4qANjt3pf3yvnESAd95nV1qemP9M1hu9800zE1wEvXls0T5ulqE4Die4uYOfQM_J&ischartype=1"
